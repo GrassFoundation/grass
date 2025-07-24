@@ -1,0 +1,351 @@
+
+.invisible-button {
+  position: absolute;
+  left: 350px;
+  top: 810px;
+  width: 665px;
+  height: 70px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+
+.invisible-button1 {
+  position: absolute;
+  left: 595px;
+  top: 3950px;
+  width: 745px;
+  height: 75px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+
+.btn {
+  position: absolute;
+  left: 20px;
+  top: 18px;
+  width: 180px;
+  height: 40px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+
+.btn1 {
+  position: absolute;
+  left: 400px;
+  top: 18px;
+  width: 80px;
+  height: 40px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+
+.invisible-button2 {
+  position: absolute;
+  left: 235px;
+  top: 18px;
+  width: 135px;
+  height: 40px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+
+.btn2 {
+  position: absolute;
+  left: 1472px;
+  top: 20px;
+  width: 160px;
+  height: 42px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+
+.btn3 {
+  position: absolute;
+  left: 1639px;
+  top: 20px;
+  width: 212px;
+  height: 42px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+
+.btn4 {
+  position: absolute;
+  left: 1370px;
+  top: 1395px;
+  width: 330px;
+  height: 385px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.btn5 {
+  position: absolute;
+  left: 990px;
+  top: 1395px;
+  width: 330px;
+  height: 385px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.btn6 {
+  position: absolute;
+  left: 610px;
+  top: 1395px;
+  width: 330px;
+  height: 385px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.btn7 {
+  position: absolute;
+  left: 230px;
+  top: 1395px;
+  width: 330px;
+  height: 385px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.niz {
+  position: absolute;
+  left: 260px;
+  top: 4925px;
+  width: 75px;
+  height: 23px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.niz1 {
+  position: absolute;
+  left: 260px;
+  top: 4955px;
+  width: 75px;
+  height: 23px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.niz2 {
+  position: absolute;
+  left: 260px;
+  top: 4985px;
+  width: 75px;
+  height: 23px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.niz3 {
+  position: absolute;
+  left: 260px;
+  top: 5015px;
+  width: 100px;
+  height: 23px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.niz4 {
+  position: absolute;
+  left: 260px;
+  top: 5045px;
+  width: 160px;
+  height: 23px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.niz5 {
+  position: absolute;
+  left: 950px;
+  top: 5145px;
+  width: 160px;
+  height: 23px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.niz6 {
+  position: absolute;
+  left: 1115px;
+  top: 5145px;
+  width: 250px;
+  height: 23px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.niz7 {
+  position: absolute;
+  left: 1380px;
+  top: 5145px;
+  width: 130px;
+  height: 23px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.niz8 {
+  position: absolute;
+  left: 1530px;
+  top: 5145px;
+  width: 145px;
+  height: 23px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.soc {
+  position: absolute;
+  left: 1415px;
+  top: 4860px;
+  width: 45px;
+  height: 45px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.soc1 {
+  position: absolute;
+  left: 1465px;
+  top: 4860px;
+  width: 45px;
+  height: 45px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.soc2 {
+  position: absolute;
+  left: 1517px;
+  top: 4860px;
+  width: 45px;
+  height: 45px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.soc3 {
+  position: absolute;
+  left: 1570px;
+  top: 4860px;
+  width: 45px;
+  height: 45px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+.soc4 {
+  position: absolute;
+  left: 1620px;
+  top: 4860px;
+  width: 45px;
+  height: 45px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
